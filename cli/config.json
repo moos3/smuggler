@@ -1,0 +1,14 @@
+{
+    "production": {
+        "label": "production",
+        "username": "user1",
+        "password": "password123",
+        "url": "http://nginx-load-balancer-178831197.us-east-1.elb.amazonaws.com:8000"
+    },
+    "dev": {
+        "label": "dev",
+        "username": "user1",
+        "password": "password123",
+        "url": "http://smuggler-load-balancer-1691647838.us-east-1.elb.amazonaws.com:8000"
+    }
+}
