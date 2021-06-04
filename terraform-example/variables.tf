@@ -47,6 +47,6 @@ variable "fargate_memory" {
 variable "aws_access_key" {
   default = "AKIASE7B7QKSYITASUNG"
 }
-variable "aws_secret_key" { default = "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" }
-variable "aws_account_id" { default = "148113425061" }
+variable "aws_secret_key" { default = "" }
+variable "aws_account_id" { default = "" }
 variable "bucket_name" { default = "bobs-example-storage" }
