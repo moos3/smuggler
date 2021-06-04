@@ -1,4 +1,4 @@
-# Funny Farm CLI
+# Smuggler CLI
 This a command line tool for talking to funny farm's api server. This requires a config.json file that contains the following:
 
 ```
